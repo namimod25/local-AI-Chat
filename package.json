@@ -3,13 +3,13 @@
   "version": "0.0.0",
   "private": true,
   "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
-  "homepage": "https://github.com/theodevoid/local-ai-chat#readme",
+  "homepage": "",
   "bugs": {
-    "url": "https://github.com/theodevoid/local-ai-chat/issues"
+    
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/theodevoid/local-ai-chat.git"
+    "url": ""
   },
   "license": "ISC",
   "author": "",
