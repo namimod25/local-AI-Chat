@@ -1,1 +1,15 @@
-Layout
+# Features
+- [x] Threads Sidebar
+  - [x] Install and initialize DB
+  - [x] Create thread form dialog
+  - [x] Store thread in DB
+  - [x] Read and list threads from DB
+- [x] Routing
+  - [x] Setup `react-router`
+  - [x] Dynamic routing
+  - [x] Highlight active thread
+- [x] Chat
+  - [x] Stream message
+  - [x] Stream thought
+  - [x] Store messages and thought in DB
+  - [x] Fetch messages
